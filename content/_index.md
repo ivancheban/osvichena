@@ -10,10 +10,10 @@ sections:
       one to three sentences, but can be changed as you prefer.
   - type: contentblock
     template: contentblock
-    title: About
+    title: Про мене
     section_id: about
     actions:
-      - label: Contact Me
+      - label: Зв’язатися зі мною
         url: /contact
     component: content_block.html
     content: >-
@@ -23,16 +23,16 @@ sections:
       about yourself for those who are interested.
   - type: postsblock
     template: postsblock
-    title: Recent Posts
+    title: Останні дописи
     section_id: recent-posts
     actions:
-      - label: View Blog
+      - label: Дивитися блог
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 4
 menu:
   main:
-    name: Home
+    name: Головна
     weight: 1
 layout: home
 ---

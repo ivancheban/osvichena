@@ -5,13 +5,13 @@ params:
   palette: blue
   header:
     title: Тут і зараз
-    tagline: Header Tagline
+    tagline: Звільни голову від зайвих думок
     profile_img: images/zen.png
     bg: dark
     has_nav: true
     has_social: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: '&copy; Усі права застережено.'
     links:
       - text: Зроблено з любов’ю
         url: 'https://www.facebook.com/osvichena'
