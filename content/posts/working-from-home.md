@@ -9,4 +9,6 @@ layout: post
 canonical_url: ''
 
 ---
+{{< instagram B_fFbc9Bn2d >}}
+
 {{< youtube dsknA27fMG4 >}}
