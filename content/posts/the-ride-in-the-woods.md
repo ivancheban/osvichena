@@ -12,4 +12,4 @@ canonical_url: ''
 ---
 {{< instagram B_fFbc9Bn2d >}}
 
-{{< instagram [B_XgBQbhejU](https://www.instagram.com/p/B_XgBQbhejU/ "https://www.instagram.com/p/B_XgBQbhejU/") >}}
+{{< instagram B_XgBQbhejU >}}
