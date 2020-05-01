@@ -9,6 +9,4 @@ subtitle: ''
 canonical_url: ''
 
 ---
-# Мої відео з YouTube
-
 {{< youtube dsknA27fMG4 >}}
