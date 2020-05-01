@@ -14,3 +14,5 @@ canonical_url: ''
 # Мої відео з YouTube
 
 {{< youtube dsknA27fMG4&t >}}
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/dsknA27fMG4](https://www.youtube.com/embed/dsknA27fMG4 "Дрова")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
