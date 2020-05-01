@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Блог
 menu:
   main:
-    name: Blog
+    name: Блог
     weight: 2
 layout: blog
 ---

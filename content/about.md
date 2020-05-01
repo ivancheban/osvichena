@@ -1,10 +1,10 @@
 ---
-title: About Me
+title: Про мене
 subtitle: This is a short page about me and my work.
 img_path: images/about.jpg
 menu:
   main:
-    name: About
+    name: Про мене
     weight: 4
 layout: page
 ---

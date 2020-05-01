@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Контакти
 menu:
   main:
-    name: Contact
+    name: Зв’язатися зі мною
     weight: 5
 layout: contact
 ---
 
-To get in touch fill the form below.
+Заповніть форму, щоб написати мені повідомлення.
