@@ -1,34 +1,20 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
-        },
-        {
-            "type": "devto",
-            "title": "DEV",
-            "icon": "fa-dev",
-            "url": "https://dev.to/"
-        }
-    ]
+  "links": [
+    {
+      "title": "Telegram",
+      "icon": "fa-telegram",
+      "url": "http://t.me/osvichena"
+    },
+    {
+      "title": "Facebook",
+      "icon": "facebook-f",
+      "url": "https://www.facebook.com/osvichena"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/osvichena"
+    }
+  ]
 }
