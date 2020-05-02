@@ -1,7 +1,7 @@
 ---
 title: Останні пости з Інстаграм
 subtitle: ''
-date: 2018-01-23
+date: 2020-05-01T12:00:00+03:00
 thumb_img_path: "/images/zen.png"
 content_img_path: ''
 excerpt: Тут можна переглянути мої останні пости з Інстаграм.
