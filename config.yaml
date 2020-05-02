@@ -1,5 +1,6 @@
 title: Тут і зараз
 baseURL: /
+googleAnalytics: "UA-162550995-11"
 params:
   layout_style: overflow
   palette: blue
