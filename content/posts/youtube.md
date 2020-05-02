@@ -1,7 +1,7 @@
 ---
 title: Мої відео з YouTube
 subtitle: ''
-date: 2016-08-22
+date: 2020-07-06T12:00:00+03:00
 thumb_img_path: "/images/zen-stones.jpg"
 content_img_path: ''
 excerpt: Тут можна переглянути мої останні відео з YouTube.
