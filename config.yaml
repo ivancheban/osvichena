@@ -1,23 +1,24 @@
+---
 title: Тут і зараз
-baseURL: /
-googleAnalytics: "UA-162550995-11"
+baseURL: "/"
+googleAnalytics: UA-162550995-11
 params:
   layout_style: overflow
   palette: blue
   header:
     title: Тут і зараз
     tagline: Звільни голову від зайвих думок
-    profile_img: images/zen.png
+    profile_img: "/images/1510703571116418717.jpg"
     bg: dark
     has_nav: true
     has_social: true
   footer:
-    content: '&copy; Усі права застережено.'
+    content: "&copy; Усі права застережено."
     links:
-      - text: Зроблено з любов’ю
-        url: 'https://www.facebook.com/osvichena'
-        new_window: true
+    - text: Зроблено з любов’ю
+      url: https://www.facebook.com/osvichena
+      new_window: true
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
