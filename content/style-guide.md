@@ -1,8 +1,9 @@
 ---
 title: Мої відео
-subtitle: Тут з’являються відео з мого каналу YouTube.
+subtitle: 'Тут з’являються відео з мого каналу YouTube'
+date: 2021-01-02T12:00:00+03:00
+thumb_img_path: "/images/pinetrees.jpg"
 layout: post
-img_path: "/images/pinetrees.jpg"
 menu:
   main:
     weight: 3
