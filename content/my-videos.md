@@ -17,4 +17,10 @@ menu:
 {{< youtube KCnNhwCwROs >}}
 <br>
 
-{{< youtube cu1SnlKo8b0 >}}
+{{< youtube cu1SnlKo8b0 >}}  
+<br>
+
+{{< youtube 88CfsbIs2kk >}}   
+<br>
+
+{{< youtube mUR97Jqjy78 >}} 
