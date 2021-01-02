@@ -2,24 +2,25 @@
 title: Мої відео
 subtitle: Тут з’являються відео з мого каналу YouTube.
 layout: page
-img_path: "/images/pinetrees.jpg"
+img_path: ""
 menu:
   main:
     weight: 3
 
 ---
-# Чому новорічні бажання не збуваються?
-
 {{< youtube HhwPPTYO3IM >}}
+<br>
 
-# Ліна Костенко. «І все на світі треба пережити»
+<br>
 
 {{< youtube XhfZ-MTiUPc >}}
+<br>
 
-# Шлях
+<br>
 
 {{< youtube KCnNhwCwROs >}}
+<br>
 
-# Порожній човен
+<br>
 
 {{< youtube cu1SnlKo8b0 >}}
