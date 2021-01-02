@@ -1,7 +1,7 @@
 ---
 title: Мої відео
 subtitle: Тут з’являються відео з мого каналу YouTube.
-layout: page
+layout: post
 img_path: "/images/pinetrees.jpg"
 menu:
   main:
