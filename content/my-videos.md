@@ -9,10 +9,8 @@ menu:
 
 ---
 {{< youtube HhwPPTYO3IM >}}
-<br>
 
 {{< youtube XhfZ-MTiUPc >}}
-<br>
 
 {{< youtube KCnNhwCwROs >}}
 <br>
