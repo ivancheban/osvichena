@@ -8,19 +8,24 @@ menu:
     weight: 3
 
 ---
-{{< youtube HhwPPTYO3IM >}}  
+{{< youtube HhwPPTYO3IM >}}
+
 <br>
 
-{{< youtube XhfZ-MTiUPc >}}  
+{{< youtube XhfZ-MTiUPc >}}
+
 <br>
 
 {{< youtube KCnNhwCwROs >}}
+
 <br>
 
-{{< youtube cu1SnlKo8b0 >}}  
+{{< youtube cu1SnlKo8b0 >}}
+
 <br>
 
-{{< youtube 88CfsbIs2kk >}}   
+{{< youtube 88CfsbIs2kk >}} 
+
 <br>
 
 {{< youtube mUR97Jqjy78 >}} 
