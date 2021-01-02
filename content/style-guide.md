@@ -1,9 +1,8 @@
 ---
 title: Мої відео
-subtitle: 'Тут з’являються відео з мого каналу YouTube'
-date: 2021-01-02T12:00:00+03:00
-thumb_img_path: "/images/pinetrees.jpg"
-layout: post
+subtitle: Тут з’являються відео з мого каналу YouTube.
+layout: page
+img_path: "/images/pinetrees.jpg"
 menu:
   main:
     weight: 3
@@ -11,12 +10,16 @@ menu:
 ---
 # Чому новорічні бажання не збуваються?
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/HhwPPTYO3IM](https://www.youtube.com/embed/HhwPPTYO3IM "https://www.youtube.com/embed/HhwPPTYO3IM")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube HhwPPTYO3IM >}}
 
 # Ліна Костенко. «І все на світі треба пережити»
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/XhfZ-MTiUPc](https://www.youtube.com/embed/XhfZ-MTiUPc "https://www.youtube.com/embed/XhfZ-MTiUPc")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube XhfZ-MTiUPc >}}
 
-# Нам «дрова»
+# Шлях
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/dsknA27fMG4](https://www.youtube.com/embed/dsknA27fMG4 "https://www.youtube.com/embed/dsknA27fMG4")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube KCnNhwCwROs >}}
+
+# Порожній човен
+
+{{< youtube cu1SnlKo8b0 >}}
