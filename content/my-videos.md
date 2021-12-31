@@ -24,12 +24,8 @@ menu:
 
 <br>
 
-{{< youtube 88CfsbIs2kk >}} 
+{{< youtube 88CfsbIs2kk >}}
 
 <br>
 
-{{< youtube mUR97Jqjy78 >}} 
-
-<br>
-
-{{< youtube dsknA27fMG4 >}}
+{{< youtube mUR97Jqjy78 >}}
